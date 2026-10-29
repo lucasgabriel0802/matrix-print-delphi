@@ -1,0 +1,38 @@
+# Delphi / RAD Studio temporary files
+*.dcu
+*.bpi
+*.bpl
+*.dcp
+*.dpc
+*.~*
+*.local
+*.identcache
+*.stat
+*.tgs
+*.tgw
+*.drc
+*.map
+*.o
+*.hpp
+*.dproj.local
+*.cbproj.local
+
+# Binaries and outputs
+*.exe
+*.dsk
+*.skincfg
+__recovery/
+__history/
+Win32/
+Win64/
+Debug/
+Release/
+DCU/
+bin/
+
+# Temporary / OS
+Thumbs.db
+Desktop.ini
+*.bak
+*.orig
+
